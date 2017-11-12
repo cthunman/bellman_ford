@@ -1,0 +1,4 @@
+[root]
+name = "bellman_ford"
+version = "0.1.0"
+
